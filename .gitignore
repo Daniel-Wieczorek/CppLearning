@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+# build directories
+*/build/*
+*/build/*
+*/bazel-bin/*
+*/bazel-out/*
+*/bazel-testlogs/*
+*/bazel-*/
+
+# build files from Bazel in lab3, TODO: Recheck why these are visible
+CppExercises/lab3/bazel-bin
+CppExercises/lab3/bazel-lab3
+CppExercises/lab3/bazel-out
+CppExercises/lab3/bazel-testlogs

@@ -1,0 +1,31 @@
+Language: Cpp
+Standard: c++14
+# Language specific:
+BasedOnStyle: Google
+AccessModifierOffset: -2
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+BinPackArguments: false
+BinPackParameters: false
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterCaseLabel: true
+  AfterClass: true
+  AfterControlStatement: true
+  AfterEnum: true
+  AfterFunction: true
+  AfterNamespace: true
+  AfterObjCDeclaration: true
+  AfterStruct: true
+  AfterUnion: true
+  BeforeCatch: true
+  BeforeElse: true
+  IndentBraces: false
+
+ColumnLimit: 120
+DerivePointerAlignment: false
+IncludeBlocks: Preserve
+IndentWidth: 4
+KeepEmptyLinesAtTheStartOfBlocks: true
