@@ -1,0 +1,30 @@
+[
+	{
+		"carNumber" : "A001",
+		"id" : "0",
+		"model" : "Series 5",
+		"name" : "BMW",
+		"rentPrice" : "100"
+	},
+	{
+		"carNumber" : "A002",
+		"id" : "1",
+		"model" : "Plaid",
+		"name" : "TESLA",
+		"rentPrice" : "40"
+	},
+	{
+		"carNumber" : "A003",
+		"id" : "2",
+		"model" : "Avens",
+		"name" : "TOYOTA",
+		"rentPrice" : "20"
+	},
+	{
+		"carNumber" : "A004",
+		"id" : "3",
+		"model" : "Lancer",
+		"name" : "MITSUBISHI",
+		"rentPrice" : "45"
+	}
+]
