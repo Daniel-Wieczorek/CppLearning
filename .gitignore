@@ -38,6 +38,8 @@
 */bazel-out/*
 */bazel-testlogs/*
 */bazel-*/
+*MODULE.bazel.lock
+*MODULE.bazel
 
 # build files from Bazel in lab3, TODO: Recheck why these are visible
 CppExercises/lab3/bazel-bin
